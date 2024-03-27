@@ -1,0 +1,11 @@
+.hov:hover{
+    box-shadow:10px 10px 10px 3px;
+     box-sizing: border-box ;
+     transition: all 0,3 ease ;
+     cursor:pointer  !important;
+     -webkit-transform: scale(1.1) ;
+     -ms-transform: scale(1.1) ;
+     transform: scale(1.1);
+     z-index: 2;
+   }
+  

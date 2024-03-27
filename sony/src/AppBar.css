@@ -1,0 +1,14 @@
+#menu:hover{
+   color:aqua ;
+  
+     }
+#menu {
+    background-color: white;
+}
+p{
+background-color: aliceblue;
+}
+a:hover{
+    text-decoration: none;
+    border-bottom: 3px solid white;
+}
